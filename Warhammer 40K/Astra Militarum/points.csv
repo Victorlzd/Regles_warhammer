@@ -1,0 +1,153 @@
+Type                ,Nom_unité                         ,nom_equipement             ,coût
+QG                  ,Cadian Command Squad              ,base                       ,75
+QG                  ,Cadian Command Squad              ,plasma pistol              ,5
+QG                  ,Cadian Command Squad              ,power fist                 ,5
+QG                  ,Cadian Castellan                  ,base                       ,50
+QG                  ,Cadian Castellan                  ,plasma pistol              ,5
+QG                  ,Cadian Castellan                  ,plasma                     ,5
+QG                  ,Gaunt's Ghosts                    ,base                       ,120
+QG                  ,'Iron Hand' Straken               ,base                       ,75
+QG                  ,Lord Solar Leontus                ,base                       ,170
+QG                  ,Militarum Tempestus Command Squad ,base                       ,95
+QG                  ,Militarum Tempestus Command Squad ,plasma pistol              ,5
+QG                  ,Militarum Tempestus Command Squad ,Tempestus command rod      ,5
+QG                  ,Platoon Command Squad             ,base                       ,75
+QG                  ,Platoon Command Squad             ,plasma pistol              ,5
+QG                  ,Platoon Command Squad             ,power fist                 ,5
+QG                  ,Primaris Psyker                   ,base                       ,60
+QG                  ,Tank Commander                    ,base                       ,160
+QG                  ,Tank Commander                    ,Armored tracks             ,5
+QG                  ,Tank Commander                    ,Dozer blade                ,5
+QG                  ,Tank Commander                    ,Heavy bolter               ,5
+QG                  ,Tank Commander                    ,Heavy flamer               ,5
+QG                  ,Tank Commander                    ,Heavy stubber              ,5
+QG                  ,Tank Commander                    ,Hunter-killer missile      ,5
+QG                  ,Tank Commander                    ,Lascannon                  ,5
+QG                  ,Tank Commander                    ,Militarum plasma cannon    ,10
+QG                  ,Tank Commander                    ,Multi-melta                ,15
+QG                  ,Tank Commander                    ,Storm bolter               ,5
+QG                  ,Ursula Creed                      ,base                       ,80
+Attaché             ,Astropath                         ,base                       ,40
+Attaché             ,Master of Ordinance               ,base                       ,25
+Attaché             ,Nork Deddog                       ,base                       ,60
+Attaché             ,Officer of the Fleet              ,base                       ,25
+Attaché             ,Ogryn Bodyguard                   ,base                       ,50
+Attaché             ,Ogryn Bodyguard                   ,Bullgryn maul              ,5
+Attaché             ,Ogryn Bodyguard                   ,Bullgryn plate             ,5
+Attaché             ,Ogryn Bodyguard                   ,Slabshield                 ,5
+Troops              ,Cadian Shock Troops               ,base                       ,65
+Troops              ,Catachan Jungle Fighters          ,base                       ,70
+Troops              ,Death Korp of Krieg               ,base                       ,75
+Troops              ,Death Korp of Krieg               ,Death Korp medi-pack       ,5
+Troops              ,Death Korp of Krieg               ,Plasma pistol              ,5
+Troops              ,Death Korp of Krieg               ,Power sword                ,5
+Troops              ,Infantry Squad                    ,base                       ,65
+Troops              ,Infantry Squad                    ,Plasma pistol              ,5
+Troops              ,Infantry Squad                    ,Power sword                ,5
+Elites              ,Bullgryns                         ,base                       ,30/model
+Elites              ,Bullgryns                         ,Bullgryn maul              ,5
+Elites              ,Commissar                         ,base                       ,40
+Elites              ,Commissar                         ,Plasma pistol              ,5
+Elites              ,Commissar                         ,Power sword                ,5
+Elites              ,Karskin                           ,base                       ,100
+Elites              ,Karskin                           ,Plasma pistol              ,5
+Elites              ,Karskin                           ,Power sword                ,5
+Elites              ,Munitorum Servitors               ,base                       ,40
+Elites              ,Munitorum Servitors               ,Heavy bolter               ,5
+Elites              ,Munitorum Servitors               ,Multi-melta                ,15
+Elites              ,Munitorum Servitors               ,Plasma cannon              ,10
+Elites              ,Ogryns                            ,base                       ,30/model
+Elites              ,Ratlings                          ,base                       ,250
+Elites              ,Regimental Enginseer              ,base                       ,40
+Elites              ,Regimental Preacher               ,base                       ,40
+Elites              ,Regimental Preacher               ,Power maul                 ,5
+Elites              ,Sergeant Harker                   ,base                       ,40
+Elites              ,Sly Marbo                         ,base                       ,50
+Elites              ,Tempestus Scions                  ,base                       ,11/model
+Fast Attack         ,Armoured Sentinels                ,base                       ,45/model
+Fast Attack         ,Armoured Sentinels                ,Hunter-killer missile      ,5
+Fast Attack         ,Armoured Sentinels                ,Sentinel chainsaw          ,5
+Fast Attack         ,Attilan Rough Riders              ,base                       ,20/model
+Fast Attack         ,Hellhound                         ,base                       ,110
+Fast Attack         ,Hellhound                         ,Armoured tracks            ,5
+Fast Attack         ,Hellhound                         ,Dozer blade                ,5
+Fast Attack         ,Hellhound                         ,Hunter-killer missile      ,5
+Fast Attack         ,Hellhound                         ,Multi-melta                ,10
+Fast Attack         ,Scout Sentinels                   ,base                       ,40/model
+Fast Attack         ,Scout Sentinels                   ,Hunter-killer missile      ,5
+Fast Attack         ,Scout Sentinels                   ,Sentinel chainsaw          ,5
+Soutien             ,Basilisk                          ,base                       ,140
+Soutien             ,Basilisk                          ,Armoured tracks            ,5
+Soutien             ,Basilisk                          ,Dozer blade                ,5
+Soutien             ,Basilisk                          ,Hunter-killer missile      ,5
+Soutien             ,Deathstrike                       ,base                       ,160
+Soutien             ,Deathstrike                       ,Armoured tracks            ,5
+Soutien             ,Deathstrike                       ,Dozer blade                ,5
+Soutien             ,Deathstrike                       ,Hunter-killer missile      ,5
+Soutien             ,Field Ordnance Battery            ,base                       ,130
+Soutien             ,Heavy Weapon Squad                ,base                       ,55
+Soutien             ,Hydra                             ,base                       ,110
+Soutien             ,Hydra                             ,Armoured tracks            ,5
+Soutien             ,Hydra                             ,Dozer blade                ,5
+Soutien             ,Hydra                             ,Hunter-killer missile      ,5
+Soutien             ,Leman Russ Battle Tanks           ,base                       ,150/model
+Soutien             ,Leman Russ Battle Tanks           ,Armoured tracks            ,5
+Soutien             ,Leman Russ Battle Tanks           ,Heavy bolter               ,5
+Soutien             ,Leman Russ Battle Tanks           ,Heavy flamer               ,5
+Soutien             ,Leman Russ Battle Tanks           ,Heavy stubber              ,5
+Soutien             ,Leman Russ Battle Tanks           ,Hunter-killer missile      ,5
+Soutien             ,Leman Russ Battle Tanks           ,Lascannon                  ,5
+Soutien             ,Leman Russ Battle Tanks           ,Militarum plasma cannon    ,10
+Soutien             ,Leman Russ Battle Tanks           ,Multi melta                ,15
+Soutien             ,Leman Russ Battle Tanks           ,Storm bolter               ,5
+Soutien             ,Manticore                         ,base                       ,140
+Soutien             ,Manticore                         ,Armoured tracks            ,5
+Soutien             ,Manticore                         ,Dozer blade                ,5
+Soutien             ,Manticore                         ,Hunter-killer missile      ,5
+Soutien             ,Rogal Dorn Battle Tanks           ,base                       ,150/model
+Soutien             ,Rogal Dorn Battle Tanks           ,Armoured tracks            ,5
+Soutien             ,Rogal Dorn Battle Tanks           ,Heavy bolter               ,5
+Soutien             ,Rogal Dorn Battle Tanks           ,Heavy stubber (additional) ,5
+Soutien             ,Rogal Dorn Battle Tanks           ,Meltagun                   ,5
+Soutien             ,Rogal Dorn Battle Tanks           ,Multi-melta                ,5
+Soutien             ,Wyvern                            ,base                       ,120
+Soutien             ,Wyvern                            ,Armoured tracks            ,5
+Soutien             ,Wyvern                            ,Dozer blade                ,5
+Soutien             ,Wyvern                            ,Hunter-killer missile      ,5
+Tank Ace Skills     ,Knight of Piety                   ,base                       ,25/35
+Tank Ace Skills     ,Meticulous Calibrator             ,base                       ,20/40
+Tank Ace Skills     ,Vaunted Praetorian                ,base                       ,15/30
+Tank Ace Skills     ,Master of Camouflage              ,base                       ,25/35
+Tank Ace Skills     ,Steel Commissar                   ,base                       ,25/-
+Tank Ace Skills     ,Mechanical Pack rat               ,base                       ,20/30
+Tank Ace Skills     ,Veteran Commander                 ,base                       ,20/30
+Dedicated Transport ,Chimera                           ,base                       ,85
+Dedicated Transport ,Chimera                           ,Armoured tracks            ,5
+Dedicated Transport ,Chimera                           ,Dozer blade                ,5
+Dedicated Transport ,Chimera                           ,Heavy stubber              ,5
+Dedicated Transport ,Chimera                           ,Hunter-killer missile      ,5
+Dedicated Transport ,Chimera                           ,Storm bolter               ,5
+Dedicated Transport ,Taurox                            ,base                       ,85
+Dedicated Transport ,Taurox                            ,Storm bolter               ,5
+Dedicated Transport ,Taurox Prime                      ,base                       ,105
+Dedicated Transport ,Taurox Prime                      ,Storm bolter               ,5
+Flyers              ,Valkyrie                          ,base                       ,140
+Flyers              ,Valkyrie                          ,Heavy bolter               ,5
+Flyers              ,Valkyrie                          ,Lascannon                  ,5
+Lords of War        ,Baneblade                         ,base                       ,430
+Lords of War        ,Baneblade                         ,Lascannon                  ,20
+Lords of War        ,Banehammer                        ,base                       ,400
+Lords of War        ,Banehammer                        ,Lascannon                  ,20
+Lords of War        ,Banesword                         ,base                       ,390
+Lords of War        ,Banesword                         ,Lascannon                  ,20
+Lords of War        ,Doomhammer                        ,base                       ,420
+Lords of War        ,Doomhammer                        ,Lascannon                  ,20
+Lords of War        ,Hellhammer                        ,base                       ,450
+Lords of War        ,Hellhammer                        ,Lascannon                  ,20
+Lords of War        ,Shadowsword                       ,base                       ,450
+Lords of War        ,Shadowsword                       ,Lascannon                  ,20
+Lords of War        ,Stormlord                         ,base                       ,430
+Lords of War        ,Stormlord                         ,Lascannon                  ,20
+Lords of War        ,Stormsword                        ,base                       ,420
+Lords of War        ,Stormsword                        ,Lascannon                  ,20
+Fortifications      ,Aegis Defence Line                ,base                       ,40
